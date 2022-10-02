@@ -22,3 +22,5 @@ def on_mouse_down(pos):
 
 place_apple()
 pgzrun.go()
+
+
